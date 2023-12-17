@@ -69,7 +69,11 @@
 [Здесь](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf 'Всплывающая подсказка') находятся горячие клавиши Visual Studio Code.
 
 
+## Работа с изображениями
 
+## Работа с таблицами
+
+## Заключение
 
 
 
