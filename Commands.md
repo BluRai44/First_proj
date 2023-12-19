@@ -119,3 +119,15 @@ ___
 clear
 ```
 ___
+
+Добавляет локально репозиторий из Git Hub
+```sh
+git clone <link>
+```
+
+Запустить созданный репозиторий в терминале
+```sh
+git remote add origin https://github.com/BluRai44/First_proj.git
+git branch -M main
+git push -u origin main
+```
