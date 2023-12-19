@@ -131,3 +131,9 @@ git remote add origin https://github.com/BluRai44/First_proj.git
 git branch -M main
 git push -u origin main
 ```
+___
+
+Направляет изменения в удаленный репозиторий на Git Hub
+```sh
+git push
+```
